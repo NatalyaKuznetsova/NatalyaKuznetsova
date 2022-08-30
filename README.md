@@ -3,7 +3,6 @@
 <h3 align="center">Junior QA</h3>
 
 ### Hi there 👋, my name is Natalya
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Skills: SQL / JS / HTML / CSS/
 
