@@ -3,7 +3,7 @@
 <h3 align="center">Junior QA</h3>
 
 
-Skills: SQL / JS / HTML / CSS/
+Skills: SQL / JS / HTML / CSS/ Postman/ GIT
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning SQL, Python, Web, QA 
